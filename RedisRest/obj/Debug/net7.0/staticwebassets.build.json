@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Rb4O+TxTlFI+AzxCGMnJZTo/OOiQOirI/oyNuN47yv4=",
+  "Source": "RedisRest",
+  "BasePath": "_content/RedisRest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
